@@ -11,19 +11,19 @@
 nama = input("masukkan nama anda = ")
 
 # If statement dalam bentuk inline (satu baris)
-# if nama == "azza" : print(f"selamat datang {nama}")
-# print("Terima kasih")
+# if nama == "cyntia" : print(f"selamat datang {nama}")
+# print("Terima Kasih")
 
 # if statement dalam bentuk indentasi
-#if nama == 'azza' :
+#if nama == 'cyntia' :
  #    print(f'Selamat Datang {nama}')
-#print("Terima kasih")
+#print("Terima Kasih")
 
 # IF-ELSE Statement
-if nama == 'azza':
+if nama == 'cyntia':
     # aksi 1
-    print(f'selamat datang {nama}')
+    print(f'Selamat Datang {nama}')
 else:
     # aksi 2
-    print(f'kamu {nama}, bukan azza')
+    print(f'kamu {nama}, bukan cyntia')
 print('terima kasih')
